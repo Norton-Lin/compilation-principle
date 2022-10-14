@@ -1,0 +1,2 @@
+D:\Desktop\programDesign\compilation principle\LexParser\Debug\LexParser.exe
+D:\Desktop\programDesign\compilation_principle\LexParser\Debug\LexParser.exe

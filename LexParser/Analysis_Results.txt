@@ -1,0 +1,4273 @@
+< #, - >
+Position:  line: 1  col: 1
+Value: #
+
+< id, 0 >
+Position:  line: 1  col: 2
+Value: include
+
+< <, - >
+Position:  line: 1  col: 10
+Value: <
+
+< id, 1 >
+Position:  line: 1  col: 11
+Value: stdio
+
+< ., - >
+Position:  line: 1  col: 16
+Value: .
+
+< id, 2 >
+Position:  line: 1  col: 17
+Value: h
+
+< >, - >
+Position:  line: 1  col: 18
+Value: >
+
+< #, - >
+Position:  line: 2  col: 1
+Value: #
+
+< id, 0 >
+Position:  line: 2  col: 2
+Value: include
+
+< <, - >
+Position:  line: 2  col: 10
+Value: <
+
+< id, 3 >
+Position:  line: 2  col: 11
+Value: stdlib
+
+< ., - >
+Position:  line: 2  col: 17
+Value: .
+
+< id, 2 >
+Position:  line: 2  col: 18
+Value: h
+
+< >, - >
+Position:  line: 2  col: 19
+Value: >
+
+< #, - >
+Position:  line: 3  col: 1
+Value: #
+
+< id, 0 >
+Position:  line: 3  col: 2
+Value: include
+
+< <, - >
+Position:  line: 3  col: 10
+Value: <
+
+< id, 4 >
+Position:  line: 3  col: 11
+Value: string
+
+< ., - >
+Position:  line: 3  col: 17
+Value: .
+
+< id, 2 >
+Position:  line: 3  col: 18
+Value: h
+
+< >, - >
+Position:  line: 3  col: 19
+Value: >
+
+< #, - >
+Position:  line: 4  col: 1
+Value: #
+
+< id, 5 >
+Position:  line: 4  col: 2
+Value: define
+
+< id, 6 >
+Position:  line: 4  col: 9
+Value: Maxsize
+
+< id, 0 >
+Position:  line: 4  col: 17
+The type of token :digit 
+Value: 200
+
+< typedef, - >
+Position:  line: 5  col: 1
+Value: typedef
+
+< struct, - >
+Position:  line: 5  col: 9
+Value: struct
+
+< {, - >
+Position:  line: 6  col: 1
+Value: {
+
+< int, - >
+Position:  line: 7  col: 5
+Value: int
+
+< *, - >
+Position:  line: 7  col: 9
+Value: *
+
+< id, 7 >
+Position:  line: 7  col: 10
+Value: elem
+
+< ;, - >
+Position:  line: 7  col: 14
+Value: ;
+
+< int, - >
+Position:  line: 8  col: 5
+Value: int
+
+< id, 8 >
+Position:  line: 8  col: 9
+Value: top
+
+< ;, - >
+Position:  line: 8  col: 12
+Value: ;
+
+< }, - >
+Position:  line: 9  col: 1
+Value: }
+
+< id, 9 >
+Position:  line: 9  col: 3
+Value: Stack
+
+< ;, - >
+Position:  line: 9  col: 8
+Value: ;
+
+< void, - >
+Position:  line: 10  col: 1
+Value: void
+
+< id, 10 >
+Position:  line: 10  col: 6
+Value: InitStack
+
+< (, - >
+Position:  line: 10  col: 15
+Value: (
+
+< id, 9 >
+Position:  line: 10  col: 16
+Value: Stack
+
+< *, - >
+Position:  line: 10  col: 22
+Value: *
+
+< *, - >
+Position:  line: 10  col: 23
+Value: *
+
+< id, 11 >
+Position:  line: 10  col: 24
+Value: s
+
+< ), - >
+Position:  line: 10  col: 25
+Value: )
+
+< ;, - >
+Position:  line: 10  col: 26
+Value: ;
+
+< int, - >
+Position:  line: 11  col: 1
+Value: int
+
+< id, 12 >
+Position:  line: 11  col: 5
+Value: isFull
+
+< (, - >
+Position:  line: 11  col: 11
+Value: (
+
+< id, 9 >
+Position:  line: 11  col: 12
+Value: Stack
+
+< id, 13 >
+Position:  line: 11  col: 18
+Value: S
+
+< ), - >
+Position:  line: 11  col: 19
+Value: )
+
+< ;, - >
+Position:  line: 11  col: 20
+Value: ;
+
+< int, - >
+Position:  line: 12  col: 1
+Value: int
+
+< id, 14 >
+Position:  line: 12  col: 5
+Value: isEmpty
+
+< (, - >
+Position:  line: 12  col: 12
+Value: (
+
+< id, 9 >
+Position:  line: 12  col: 13
+Value: Stack
+
+< id, 11 >
+Position:  line: 12  col: 19
+Value: s
+
+< ), - >
+Position:  line: 12  col: 20
+Value: )
+
+< ;, - >
+Position:  line: 12  col: 21
+Value: ;
+
+< void, - >
+Position:  line: 13  col: 1
+Value: void
+
+< id, 15 >
+Position:  line: 13  col: 6
+Value: push
+
+< (, - >
+Position:  line: 13  col: 10
+Value: (
+
+< id, 9 >
+Position:  line: 13  col: 11
+Value: Stack
+
+< *, - >
+Position:  line: 13  col: 17
+Value: *
+
+< id, 11 >
+Position:  line: 13  col: 18
+Value: s
+
+< ,, - >
+Position:  line: 13  col: 19
+Value: ,
+
+< int, - >
+Position:  line: 13  col: 21
+Value: int
+
+< id, 16 >
+Position:  line: 13  col: 25
+Value: num
+
+< ), - >
+Position:  line: 13  col: 28
+Value: )
+
+< ;, - >
+Position:  line: 13  col: 29
+Value: ;
+
+< int, - >
+Position:  line: 14  col: 1
+Value: int
+
+< id, 17 >
+Position:  line: 14  col: 5
+Value: pop
+
+< (, - >
+Position:  line: 14  col: 8
+Value: (
+
+< id, 9 >
+Position:  line: 14  col: 9
+Value: Stack
+
+< *, - >
+Position:  line: 14  col: 15
+Value: *
+
+< id, 11 >
+Position:  line: 14  col: 16
+Value: s
+
+< ,, - >
+Position:  line: 14  col: 17
+Value: ,
+
+< int, - >
+Position:  line: 14  col: 19
+Value: int
+
+< id, 16 >
+Position:  line: 14  col: 23
+Value: num
+
+< ), - >
+Position:  line: 14  col: 26
+Value: )
+
+< ;, - >
+Position:  line: 14  col: 27
+Value: ;
+
+< void, - >
+Position:  line: 15  col: 1
+Value: void
+
+< id, 18 >
+Position:  line: 15  col: 6
+Value: getLabyrinth
+
+< (, - >
+Position:  line: 15  col: 18
+Value: (
+
+< int, - >
+Position:  line: 15  col: 19
+Value: int
+
+< id, 19 >
+Position:  line: 15  col: 23
+Value: map
+
+< [, - >
+Position:  line: 15  col: 26
+Value: [
+
+< ], - >
+Position:  line: 15  col: 27
+Value: ]
+
+< [, - >
+Position:  line: 15  col: 28
+Value: [
+
+< id, 6 >
+Position:  line: 15  col: 29
+Value: Maxsize
+
+< ], - >
+Position:  line: 15  col: 36
+Value: ]
+
+< ,, - >
+Position:  line: 15  col: 37
+Value: ,
+
+< int, - >
+Position:  line: 15  col: 39
+Value: int
+
+< *, - >
+Position:  line: 15  col: 43
+Value: *
+
+< id, 20 >
+Position:  line: 15  col: 44
+Value: maxNum
+
+< ), - >
+Position:  line: 15  col: 50
+Value: )
+
+< ;, - >
+Position:  line: 15  col: 51
+Value: ;
+
+< void, - >
+Position:  line: 16  col: 1
+Value: void
+
+< id, 21 >
+Position:  line: 16  col: 6
+Value: wayFind
+
+< (, - >
+Position:  line: 16  col: 13
+Value: (
+
+< int, - >
+Position:  line: 16  col: 14
+Value: int
+
+< id, 19 >
+Position:  line: 16  col: 18
+Value: map
+
+< [, - >
+Position:  line: 16  col: 21
+Value: [
+
+< ], - >
+Position:  line: 16  col: 22
+Value: ]
+
+< [, - >
+Position:  line: 16  col: 23
+Value: [
+
+< id, 6 >
+Position:  line: 16  col: 24
+Value: Maxsize
+
+< ], - >
+Position:  line: 16  col: 31
+Value: ]
+
+< ,, - >
+Position:  line: 16  col: 32
+Value: ,
+
+< id, 9 >
+Position:  line: 16  col: 34
+Value: Stack
+
+< *, - >
+Position:  line: 16  col: 40
+Value: *
+
+< id, 11 >
+Position:  line: 16  col: 41
+Value: s
+
+< ,, - >
+Position:  line: 16  col: 42
+Value: ,
+
+< int, - >
+Position:  line: 16  col: 44
+Value: int
+
+< id, 20 >
+Position:  line: 16  col: 48
+Value: maxNum
+
+< ), - >
+Position:  line: 16  col: 54
+Value: )
+
+< ;, - >
+Position:  line: 16  col: 55
+Value: ;
+
+< void, - >
+Position:  line: 17  col: 1
+Value: void
+
+< id, 22 >
+Position:  line: 17  col: 6
+Value: printStack
+
+< (, - >
+Position:  line: 17  col: 16
+Value: (
+
+< id, 9 >
+Position:  line: 17  col: 17
+Value: Stack
+
+< id, 11 >
+Position:  line: 17  col: 23
+Value: s
+
+< ), - >
+Position:  line: 17  col: 24
+Value: )
+
+< ;, - >
+Position:  line: 17  col: 25
+Value: ;
+
+< void, - >
+Position:  line: 18  col: 1
+Value: void
+
+< id, 23 >
+Position:  line: 18  col: 6
+Value: StackDestory
+
+< (, - >
+Position:  line: 18  col: 18
+Value: (
+
+< id, 9 >
+Position:  line: 18  col: 19
+Value: Stack
+
+< *, - >
+Position:  line: 18  col: 25
+Value: *
+
+< id, 11 >
+Position:  line: 18  col: 26
+Value: s
+
+< ), - >
+Position:  line: 18  col: 27
+Value: )
+
+< ;, - >
+Position:  line: 18  col: 28
+Value: ;
+
+< void, - >
+Position:  line: 19  col: 1
+Value: void
+
+< id, 10 >
+Position:  line: 19  col: 6
+Value: InitStack
+
+< (, - >
+Position:  line: 19  col: 15
+Value: (
+
+< id, 9 >
+Position:  line: 19  col: 16
+Value: Stack
+
+< *, - >
+Position:  line: 19  col: 22
+Value: *
+
+< *, - >
+Position:  line: 19  col: 23
+Value: *
+
+< id, 11 >
+Position:  line: 19  col: 24
+Value: s
+
+< ), - >
+Position:  line: 19  col: 25
+Value: )
+
+< {, - >
+Position:  line: 20  col: 1
+Value: {
+
+< (, - >
+Position:  line: 21  col: 5
+Value: (
+
+< *, - >
+Position:  line: 21  col: 6
+Value: *
+
+< id, 11 >
+Position:  line: 21  col: 7
+Value: s
+
+< ), - >
+Position:  line: 21  col: 8
+Value: )
+
+< -, - >
+Position:  line: 21  col: 9
+Value: -
+
+< >, - >
+Position:  line: 21  col: 10
+Value: >
+
+< id, 7 >
+Position:  line: 21  col: 11
+Value: elem
+
+< =, - >
+Position:  line: 21  col: 16
+Value: =
+
+< (, - >
+Position:  line: 21  col: 18
+Value: (
+
+< int, - >
+Position:  line: 21  col: 19
+Value: int
+
+< *, - >
+Position:  line: 21  col: 23
+Value: *
+
+< ), - >
+Position:  line: 21  col: 24
+Value: )
+
+< id, 24 >
+Position:  line: 21  col: 25
+Value: malloc
+
+< (, - >
+Position:  line: 21  col: 31
+Value: (
+
+< sizeof, - >
+Position:  line: 21  col: 32
+Value: sizeof
+
+< (, - >
+Position:  line: 21  col: 38
+Value: (
+
+< int, - >
+Position:  line: 21  col: 39
+Value: int
+
+< ), - >
+Position:  line: 21  col: 42
+Value: )
+
+< *, - >
+Position:  line: 21  col: 44
+Value: *
+
+< id, 6 >
+Position:  line: 21  col: 46
+Value: Maxsize
+
+< ), - >
+Position:  line: 21  col: 53
+Value: )
+
+< ;, - >
+Position:  line: 21  col: 54
+Value: ;
+
+< (, - >
+Position:  line: 22  col: 5
+Value: (
+
+< *, - >
+Position:  line: 22  col: 6
+Value: *
+
+< id, 11 >
+Position:  line: 22  col: 7
+Value: s
+
+< ), - >
+Position:  line: 22  col: 8
+Value: )
+
+< -, - >
+Position:  line: 22  col: 9
+Value: -
+
+< >, - >
+Position:  line: 22  col: 10
+Value: >
+
+< id, 8 >
+Position:  line: 22  col: 11
+Value: top
+
+< =, - >
+Position:  line: 22  col: 15
+Value: =
+
+< id, 1 >
+Position:  line: 22  col: 17
+The type of token :digit 
+Value: 0
+
+< ;, - >
+Position:  line: 22  col: 18
+Value: ;
+
+< }, - >
+Position:  line: 23  col: 1
+Value: }
+
+< int, - >
+Position:  line: 24  col: 1
+Value: int
+
+< id, 12 >
+Position:  line: 24  col: 5
+Value: isFull
+
+< (, - >
+Position:  line: 24  col: 11
+Value: (
+
+< id, 9 >
+Position:  line: 24  col: 12
+Value: Stack
+
+< id, 11 >
+Position:  line: 24  col: 18
+Value: s
+
+< ), - >
+Position:  line: 24  col: 19
+Value: )
+
+< {, - >
+Position:  line: 25  col: 1
+Value: {
+
+< int, - >
+Position:  line: 26  col: 5
+Value: int
+
+< id, 25 >
+Position:  line: 26  col: 9
+Value: judge
+
+< =, - >
+Position:  line: 26  col: 15
+Value: =
+
+< id, 2 >
+Position:  line: 26  col: 17
+The type of token :digit 
+Value: 1
+
+< ;, - >
+Position:  line: 26  col: 18
+Value: ;
+
+< if, - >
+Position:  line: 27  col: 5
+Value: if
+
+< (, - >
+Position:  line: 27  col: 8
+Value: (
+
+< id, 11 >
+Position:  line: 27  col: 9
+Value: s
+
+< ., - >
+Position:  line: 27  col: 10
+Value: .
+
+< id, 8 >
+Position:  line: 27  col: 11
+Value: top
+
+< =, - >
+Position:  line: 27  col: 15
+Value: =
+
+< id, 6 >
+Position:  line: 27  col: 18
+Value: Maxsize
+
+< +, - >
+Position:  line: 27  col: 26
+Value: +
+
+< id, 2 >
+Position:  line: 27  col: 28
+The type of token :digit 
+Value: 1
+
+< ), - >
+Position:  line: 27  col: 29
+Value: )
+
+< id, 25 >
+Position:  line: 28  col: 9
+Value: judge
+
+< =, - >
+Position:  line: 28  col: 15
+Value: =
+
+< id, 1 >
+Position:  line: 28  col: 17
+The type of token :digit 
+Value: 0
+
+< ;, - >
+Position:  line: 28  col: 18
+Value: ;
+
+< return, - >
+Position:  line: 29  col: 5
+Value: return
+
+< id, 25 >
+Position:  line: 29  col: 12
+Value: judge
+
+< ;, - >
+Position:  line: 29  col: 17
+Value: ;
+
+< }, - >
+Position:  line: 30  col: 1
+Value: }
+
+< int, - >
+Position:  line: 31  col: 1
+Value: int
+
+< id, 14 >
+Position:  line: 31  col: 5
+Value: isEmpty
+
+< (, - >
+Position:  line: 31  col: 12
+Value: (
+
+< id, 9 >
+Position:  line: 31  col: 13
+Value: Stack
+
+< id, 11 >
+Position:  line: 31  col: 19
+Value: s
+
+< ), - >
+Position:  line: 31  col: 20
+Value: )
+
+< {, - >
+Position:  line: 32  col: 1
+Value: {
+
+< int, - >
+Position:  line: 33  col: 5
+Value: int
+
+< id, 25 >
+Position:  line: 33  col: 9
+Value: judge
+
+< =, - >
+Position:  line: 33  col: 15
+Value: =
+
+< id, 2 >
+Position:  line: 33  col: 17
+The type of token :digit 
+Value: 1
+
+< ;, - >
+Position:  line: 33  col: 18
+Value: ;
+
+< if, - >
+Position:  line: 34  col: 5
+Value: if
+
+< (, - >
+Position:  line: 34  col: 8
+Value: (
+
+< id, 11 >
+Position:  line: 34  col: 9
+Value: s
+
+< ., - >
+Position:  line: 34  col: 10
+Value: .
+
+< id, 8 >
+Position:  line: 34  col: 11
+Value: top
+
+< =, - >
+Position:  line: 34  col: 15
+Value: =
+
+< id, 1 >
+Position:  line: 34  col: 18
+The type of token :digit 
+Value: 0
+
+< ), - >
+Position:  line: 34  col: 19
+Value: )
+
+< id, 25 >
+Position:  line: 35  col: 9
+Value: judge
+
+< =, - >
+Position:  line: 35  col: 15
+Value: =
+
+< id, 1 >
+Position:  line: 35  col: 17
+The type of token :digit 
+Value: 0
+
+< ;, - >
+Position:  line: 35  col: 18
+Value: ;
+
+< return, - >
+Position:  line: 36  col: 5
+Value: return
+
+< id, 25 >
+Position:  line: 36  col: 12
+Value: judge
+
+< ;, - >
+Position:  line: 36  col: 17
+Value: ;
+
+< }, - >
+Position:  line: 37  col: 1
+Value: }
+
+< void, - >
+Position:  line: 38  col: 1
+Value: void
+
+< id, 15 >
+Position:  line: 38  col: 6
+Value: push
+
+< (, - >
+Position:  line: 38  col: 10
+Value: (
+
+< id, 9 >
+Position:  line: 38  col: 11
+Value: Stack
+
+< *, - >
+Position:  line: 38  col: 17
+Value: *
+
+< id, 11 >
+Position:  line: 38  col: 18
+Value: s
+
+< ,, - >
+Position:  line: 38  col: 19
+Value: ,
+
+< int, - >
+Position:  line: 38  col: 21
+Value: int
+
+< id, 16 >
+Position:  line: 38  col: 25
+Value: num
+
+< ), - >
+Position:  line: 38  col: 28
+Value: )
+
+< {, - >
+Position:  line: 39  col: 1
+Value: {
+
+< if, - >
+Position:  line: 40  col: 5
+Value: if
+
+< (, - >
+Position:  line: 40  col: 8
+Value: (
+
+< id, 12 >
+Position:  line: 40  col: 9
+Value: isFull
+
+< (, - >
+Position:  line: 40  col: 15
+Value: (
+
+< *, - >
+Position:  line: 40  col: 16
+Value: *
+
+< id, 11 >
+Position:  line: 40  col: 17
+Value: s
+
+< ), - >
+Position:  line: 40  col: 18
+Value: )
+
+< ), - >
+Position:  line: 40  col: 19
+Value: )
+
+< {, - >
+Position:  line: 41  col: 5
+Value: {
+
+< id, 11 >
+Position:  line: 42  col: 9
+Value: s
+
+< -, - >
+Position:  line: 42  col: 10
+Value: -
+
+< >, - >
+Position:  line: 42  col: 11
+Value: >
+
+< id, 7 >
+Position:  line: 42  col: 12
+Value: elem
+
+< [, - >
+Position:  line: 42  col: 16
+Value: [
+
+< id, 11 >
+Position:  line: 42  col: 17
+Value: s
+
+< -, - >
+Position:  line: 42  col: 18
+Value: -
+
+< >, - >
+Position:  line: 42  col: 19
+Value: >
+
+< id, 8 >
+Position:  line: 42  col: 20
+Value: top
+
+< ], - >
+Position:  line: 42  col: 23
+Value: ]
+
+< =, - >
+Position:  line: 42  col: 25
+Value: =
+
+< id, 16 >
+Position:  line: 42  col: 27
+Value: num
+
+< ;, - >
+Position:  line: 42  col: 30
+Value: ;
+
+< id, 11 >
+Position:  line: 43  col: 9
+Value: s
+
+< -, - >
+Position:  line: 43  col: 10
+Value: -
+
+< >, - >
+Position:  line: 43  col: 11
+Value: >
+
+< id, 8 >
+Position:  line: 43  col: 12
+Value: top
+
+< +, - >
+Position:  line: 43  col: 15
+Value: +
+
+< ;, - >
+Position:  line: 43  col: 17
+Value: ;
+
+< }, - >
+Position:  line: 44  col: 5
+Value: }
+
+< }, - >
+Position:  line: 45  col: 1
+Value: }
+
+< int, - >
+Position:  line: 46  col: 1
+Value: int
+
+< id, 17 >
+Position:  line: 46  col: 5
+Value: pop
+
+< (, - >
+Position:  line: 46  col: 8
+Value: (
+
+< id, 9 >
+Position:  line: 46  col: 9
+Value: Stack
+
+< *, - >
+Position:  line: 46  col: 15
+Value: *
+
+< id, 11 >
+Position:  line: 46  col: 16
+Value: s
+
+< ,, - >
+Position:  line: 46  col: 17
+Value: ,
+
+< int, - >
+Position:  line: 46  col: 19
+Value: int
+
+< id, 16 >
+Position:  line: 46  col: 23
+Value: num
+
+< ), - >
+Position:  line: 46  col: 26
+Value: )
+
+< {, - >
+Position:  line: 47  col: 1
+Value: {
+
+< if, - >
+Position:  line: 48  col: 5
+Value: if
+
+< (, - >
+Position:  line: 48  col: 8
+Value: (
+
+< id, 14 >
+Position:  line: 48  col: 9
+Value: isEmpty
+
+< (, - >
+Position:  line: 48  col: 16
+Value: (
+
+< *, - >
+Position:  line: 48  col: 17
+Value: *
+
+< id, 11 >
+Position:  line: 48  col: 18
+Value: s
+
+< ), - >
+Position:  line: 48  col: 19
+Value: )
+
+< ), - >
+Position:  line: 48  col: 20
+Value: )
+
+< {, - >
+Position:  line: 49  col: 5
+Value: {
+
+< id, 16 >
+Position:  line: 50  col: 9
+Value: num
+
+< =, - >
+Position:  line: 50  col: 13
+Value: =
+
+< id, 11 >
+Position:  line: 50  col: 15
+Value: s
+
+< -, - >
+Position:  line: 50  col: 16
+Value: -
+
+< >, - >
+Position:  line: 50  col: 17
+Value: >
+
+< id, 7 >
+Position:  line: 50  col: 18
+Value: elem
+
+< [, - >
+Position:  line: 50  col: 22
+Value: [
+
+< id, 11 >
+Position:  line: 50  col: 23
+Value: s
+
+< -, - >
+Position:  line: 50  col: 24
+Value: -
+
+< >, - >
+Position:  line: 50  col: 25
+Value: >
+
+< id, 8 >
+Position:  line: 50  col: 26
+Value: top
+
+< -, - >
+Position:  line: 50  col: 30
+Value: -
+
+< id, 2 >
+Position:  line: 50  col: 32
+The type of token :digit 
+Value: 1
+
+< ], - >
+Position:  line: 50  col: 33
+Value: ]
+
+< ;, - >
+Position:  line: 50  col: 34
+Value: ;
+
+< id, 11 >
+Position:  line: 51  col: 9
+Value: s
+
+< -, - >
+Position:  line: 51  col: 10
+Value: -
+
+< >, - >
+Position:  line: 51  col: 11
+Value: >
+
+< id, 8 >
+Position:  line: 51  col: 12
+Value: top
+
+< -, - >
+Position:  line: 51  col: 15
+Value: -
+
+< ;, - >
+Position:  line: 51  col: 17
+Value: ;
+
+< }, - >
+Position:  line: 52  col: 5
+Value: }
+
+< return, - >
+Position:  line: 53  col: 5
+Value: return
+
+< id, 16 >
+Position:  line: 53  col: 12
+Value: num
+
+< ;, - >
+Position:  line: 53  col: 15
+Value: ;
+
+< }, - >
+Position:  line: 54  col: 1
+Value: }
+
+< void, - >
+Position:  line: 55  col: 1
+Value: void
+
+< id, 18 >
+Position:  line: 55  col: 6
+Value: getLabyrinth
+
+< (, - >
+Position:  line: 55  col: 18
+Value: (
+
+< int, - >
+Position:  line: 55  col: 19
+Value: int
+
+< id, 19 >
+Position:  line: 55  col: 23
+Value: map
+
+< [, - >
+Position:  line: 55  col: 26
+Value: [
+
+< ], - >
+Position:  line: 55  col: 27
+Value: ]
+
+< [, - >
+Position:  line: 55  col: 28
+Value: [
+
+< id, 6 >
+Position:  line: 55  col: 29
+Value: Maxsize
+
+< ], - >
+Position:  line: 55  col: 36
+Value: ]
+
+< ,, - >
+Position:  line: 55  col: 37
+Value: ,
+
+< int, - >
+Position:  line: 55  col: 39
+Value: int
+
+< *, - >
+Position:  line: 55  col: 43
+Value: *
+
+< id, 20 >
+Position:  line: 55  col: 44
+Value: maxNum
+
+< ), - >
+Position:  line: 55  col: 50
+Value: )
+
+< {, - >
+Position:  line: 56  col: 1
+Value: {
+
+< id, 26 >
+Position:  line: 57  col: 5
+Value: FILE
+
+< *, - >
+Position:  line: 57  col: 10
+Value: *
+
+< id, 27 >
+Position:  line: 57  col: 11
+Value: fp
+
+< =, - >
+Position:  line: 57  col: 14
+Value: =
+
+< id, 28 >
+Position:  line: 57  col: 16
+Value: NULL
+
+< ;, - >
+Position:  line: 57  col: 20
+Value: ;
+
+< int, - >
+Position:  line: 58  col: 5
+Value: int
+
+< id, 29 >
+Position:  line: 58  col: 9
+Value: line
+
+< ,, - >
+Position:  line: 58  col: 13
+Value: ,
+
+< id, 30 >
+Position:  line: 58  col: 15
+Value: row
+
+< ;, - >
+Position:  line: 58  col: 18
+Value: ;
+
+< int, - >
+Position:  line: 59  col: 5
+Value: int
+
+< id, 31 >
+Position:  line: 59  col: 9
+Value: i
+
+< ;, - >
+Position:  line: 59  col: 10
+Value: ;
+
+< if, - >
+Position:  line: 60  col: 5
+Value: if
+
+< (, - >
+Position:  line: 60  col: 8
+Value: (
+
+< (, - >
+Position:  line: 60  col: 9
+Value: (
+
+< id, 27 >
+Position:  line: 60  col: 10
+Value: fp
+
+< =, - >
+Position:  line: 60  col: 13
+Value: =
+
+< id, 32 >
+Position:  line: 60  col: 15
+Value: fopen
+
+< (, - >
+Position:  line: 60  col: 20
+Value: (
+
+< ", - >
+Position:  line: 60  col: 21
+Value: "
+
+<   labyrinth.txt, string >
+Position:  line: 60  col: 22
+Value:   labyrinth.txt
+
+< ", - >
+Position:  line: 60  col: 35
+Value: "
+
+< ,, - >
+Position:  line: 60  col: 36
+Value: ,
+
+< ", - >
+Position:  line: 60  col: 38
+Value: "
+
+<   r, string >
+Position:  line: 60  col: 39
+Value:   r
+
+< ", - >
+Position:  line: 60  col: 40
+Value: "
+
+< ), - >
+Position:  line: 60  col: 41
+Value: )
+
+< ), - >
+Position:  line: 60  col: 42
+Value: )
+
+< =, - >
+Position:  line: 60  col: 44
+Value: =
+
+< id, 28 >
+Position:  line: 60  col: 47
+Value: NULL
+
+< ), - >
+Position:  line: 60  col: 51
+Value: )
+
+< id, 33 >
+Position:  line: 61  col: 9
+Value: printf
+
+< (, - >
+Position:  line: 61  col: 15
+Value: (
+
+< ", - >
+Position:  line: 61  col: 16
+Value: "
+
+<   Cannot open the file!\n, string >
+Position:  line: 61  col: 17
+Value:   Cannot open the file!\n
+
+< ", - >
+Position:  line: 61  col: 40
+Value: "
+
+< ), - >
+Position:  line: 61  col: 41
+Value: )
+
+< ;, - >
+Position:  line: 61  col: 42
+Value: ;
+
+< for, - >
+Position:  line: 62  col: 5
+Value: for
+
+< (, - >
+Position:  line: 62  col: 9
+Value: (
+
+< id, 31 >
+Position:  line: 62  col: 10
+Value: i
+
+< =, - >
+Position:  line: 62  col: 12
+Value: =
+
+< id, 1 >
+Position:  line: 62  col: 14
+The type of token :digit 
+Value: 0
+
+< ;, - >
+Position:  line: 62  col: 15
+Value: ;
+
+< id, 31 >
+Position:  line: 62  col: 17
+Value: i
+
+< <, - >
+Position:  line: 62  col: 19
+Value: <
+
+< id, 6 >
+Position:  line: 62  col: 21
+Value: Maxsize
+
+< |, - >
+Position:  line: 62  col: 29
+Value: |
+
+< !, - >
+Position:  line: 62  col: 32
+Value: !
+
+< id, 34 >
+Position:  line: 62  col: 33
+Value: feof
+
+< (, - >
+Position:  line: 62  col: 37
+Value: (
+
+< id, 27 >
+Position:  line: 62  col: 38
+Value: fp
+
+< ), - >
+Position:  line: 62  col: 40
+Value: )
+
+< ;, - >
+Position:  line: 62  col: 41
+Value: ;
+
+< id, 31 >
+Position:  line: 62  col: 43
+Value: i
+
+< +, - >
+Position:  line: 62  col: 44
+Value: +
+
+< ), - >
+Position:  line: 62  col: 46
+Value: )
+
+< {, - >
+Position:  line: 63  col: 5
+Value: {
+
+< id, 35 >
+Position:  line: 64  col: 9
+Value: fscanf
+
+< (, - >
+Position:  line: 64  col: 15
+Value: (
+
+< id, 27 >
+Position:  line: 64  col: 16
+Value: fp
+
+< ,, - >
+Position:  line: 64  col: 18
+Value: ,
+
+< ", - >
+Position:  line: 64  col: 20
+Value: "
+
+<   %d %d\n, string >
+Position:  line: 64  col: 21
+Value:   %d %d\n
+
+< ", - >
+Position:  line: 64  col: 28
+Value: "
+
+< ,, - >
+Position:  line: 64  col: 29
+Value: ,
+
+< &, - >
+Position:  line: 64  col: 31
+Value: &
+
+< id, 29 >
+Position:  line: 64  col: 32
+Value: line
+
+< ,, - >
+Position:  line: 64  col: 36
+Value: ,
+
+< &, - >
+Position:  line: 64  col: 38
+Value: &
+
+< id, 30 >
+Position:  line: 64  col: 39
+Value: row
+
+< ), - >
+Position:  line: 64  col: 42
+Value: )
+
+< ;, - >
+Position:  line: 64  col: 43
+Value: ;
+
+< id, 19 >
+Position:  line: 65  col: 9
+Value: map
+
+< [, - >
+Position:  line: 65  col: 12
+Value: [
+
+< id, 29 >
+Position:  line: 65  col: 13
+Value: line
+
+< ], - >
+Position:  line: 65  col: 17
+Value: ]
+
+< [, - >
+Position:  line: 65  col: 18
+Value: [
+
+< id, 30 >
+Position:  line: 65  col: 19
+Value: row
+
+< ], - >
+Position:  line: 65  col: 22
+Value: ]
+
+< =, - >
+Position:  line: 65  col: 24
+Value: =
+
+< id, 2 >
+Position:  line: 65  col: 26
+The type of token :digit 
+Value: 1
+
+< ;, - >
+Position:  line: 65  col: 27
+Value: ;
+
+< id, 19 >
+Position:  line: 66  col: 9
+Value: map
+
+< [, - >
+Position:  line: 66  col: 12
+Value: [
+
+< id, 30 >
+Position:  line: 66  col: 13
+Value: row
+
+< ], - >
+Position:  line: 66  col: 16
+Value: ]
+
+< [, - >
+Position:  line: 66  col: 17
+Value: [
+
+< id, 29 >
+Position:  line: 66  col: 18
+Value: line
+
+< ], - >
+Position:  line: 66  col: 22
+Value: ]
+
+< =, - >
+Position:  line: 66  col: 24
+Value: =
+
+< id, 2 >
+Position:  line: 66  col: 26
+The type of token :digit 
+Value: 1
+
+< ;, - >
+Position:  line: 66  col: 27
+Value: ;
+
+< if, - >
+Position:  line: 67  col: 9
+Value: if
+
+< (, - >
+Position:  line: 67  col: 12
+Value: (
+
+< id, 30 >
+Position:  line: 67  col: 13
+Value: row
+
+< >, - >
+Position:  line: 67  col: 17
+Value: >
+
+< (, - >
+Position:  line: 67  col: 19
+Value: (
+
+< *, - >
+Position:  line: 67  col: 20
+Value: *
+
+< id, 20 >
+Position:  line: 67  col: 21
+Value: maxNum
+
+< ), - >
+Position:  line: 67  col: 27
+Value: )
+
+< ), - >
+Position:  line: 67  col: 28
+Value: )
+
+< *, - >
+Position:  line: 68  col: 13
+Value: *
+
+< id, 20 >
+Position:  line: 68  col: 14
+Value: maxNum
+
+< =, - >
+Position:  line: 68  col: 21
+Value: =
+
+< id, 30 >
+Position:  line: 68  col: 23
+Value: row
+
+< ;, - >
+Position:  line: 68  col: 26
+Value: ;
+
+< if, - >
+Position:  line: 69  col: 9
+Value: if
+
+< (, - >
+Position:  line: 69  col: 12
+Value: (
+
+< id, 29 >
+Position:  line: 69  col: 13
+Value: line
+
+< >, - >
+Position:  line: 69  col: 18
+Value: >
+
+< (, - >
+Position:  line: 69  col: 20
+Value: (
+
+< *, - >
+Position:  line: 69  col: 21
+Value: *
+
+< id, 20 >
+Position:  line: 69  col: 22
+Value: maxNum
+
+< ), - >
+Position:  line: 69  col: 28
+Value: )
+
+< ), - >
+Position:  line: 69  col: 29
+Value: )
+
+< *, - >
+Position:  line: 70  col: 13
+Value: *
+
+< id, 20 >
+Position:  line: 70  col: 14
+Value: maxNum
+
+< =, - >
+Position:  line: 70  col: 21
+Value: =
+
+< id, 29 >
+Position:  line: 70  col: 23
+Value: line
+
+< ;, - >
+Position:  line: 70  col: 27
+Value: ;
+
+< }, - >
+Position:  line: 71  col: 5
+Value: }
+
+< }, - >
+Position:  line: 72  col: 1
+Value: }
+
+< void, - >
+Position:  line: 73  col: 1
+Value: void
+
+< id, 21 >
+Position:  line: 73  col: 6
+Value: wayFind
+
+< (, - >
+Position:  line: 73  col: 13
+Value: (
+
+< int, - >
+Position:  line: 73  col: 14
+Value: int
+
+< id, 19 >
+Position:  line: 73  col: 18
+Value: map
+
+< [, - >
+Position:  line: 73  col: 21
+Value: [
+
+< ], - >
+Position:  line: 73  col: 22
+Value: ]
+
+< [, - >
+Position:  line: 73  col: 23
+Value: [
+
+< id, 6 >
+Position:  line: 73  col: 24
+Value: Maxsize
+
+< ], - >
+Position:  line: 73  col: 31
+Value: ]
+
+< ,, - >
+Position:  line: 73  col: 32
+Value: ,
+
+< id, 9 >
+Position:  line: 73  col: 34
+Value: Stack
+
+< *, - >
+Position:  line: 73  col: 40
+Value: *
+
+< id, 11 >
+Position:  line: 73  col: 41
+Value: s
+
+< ,, - >
+Position:  line: 73  col: 42
+Value: ,
+
+< int, - >
+Position:  line: 73  col: 44
+Value: int
+
+< id, 20 >
+Position:  line: 73  col: 48
+Value: maxNum
+
+< ), - >
+Position:  line: 73  col: 54
+Value: )
+
+< {, - >
+Position:  line: 74  col: 1
+Value: {
+
+< int, - >
+Position:  line: 75  col: 5
+Value: int
+
+< id, 36 >
+Position:  line: 75  col: 9
+Value: start
+
+< ;, - >
+Position:  line: 75  col: 14
+Value: ;
+
+< int, - >
+Position:  line: 76  col: 5
+Value: int
+
+< id, 37 >
+Position:  line: 76  col: 9
+Value: end
+
+< ;, - >
+Position:  line: 76  col: 12
+Value: ;
+
+< id, 33 >
+Position:  line: 77  col: 5
+Value: printf
+
+< (, - >
+Position:  line: 77  col: 11
+Value: (
+
+< ", - >
+Position:  line: 77  col: 12
+Value: "
+
+<   请输入起点\n, string >
+Position:  line: 77  col: 13
+Value:   请输入起点\n
+
+< ", - >
+Position:  line: 77  col: 25
+Value: "
+
+< ), - >
+Position:  line: 77  col: 26
+Value: )
+
+< ;, - >
+Position:  line: 77  col: 27
+Value: ;
+
+< id, 38 >
+Position:  line: 78  col: 5
+Value: scanf
+
+< (, - >
+Position:  line: 78  col: 10
+Value: (
+
+< ", - >
+Position:  line: 78  col: 11
+Value: "
+
+<   %d, string >
+Position:  line: 78  col: 12
+Value:   %d
+
+< ", - >
+Position:  line: 78  col: 14
+Value: "
+
+< ,, - >
+Position:  line: 78  col: 15
+Value: ,
+
+< &, - >
+Position:  line: 78  col: 17
+Value: &
+
+< id, 36 >
+Position:  line: 78  col: 18
+Value: start
+
+< ), - >
+Position:  line: 78  col: 23
+Value: )
+
+< ;, - >
+Position:  line: 78  col: 24
+Value: ;
+
+< if, - >
+Position:  line: 79  col: 5
+Value: if
+
+< (, - >
+Position:  line: 79  col: 8
+Value: (
+
+< id, 36 >
+Position:  line: 79  col: 9
+Value: start
+
+< <, - >
+Position:  line: 79  col: 15
+Value: <
+
+< id, 2 >
+Position:  line: 79  col: 17
+The type of token :digit 
+Value: 1
+
+< |, - >
+Position:  line: 79  col: 19
+Value: |
+
+< id, 36 >
+Position:  line: 79  col: 22
+Value: start
+
+< >, - >
+Position:  line: 79  col: 28
+Value: >
+
+< id, 20 >
+Position:  line: 79  col: 30
+Value: maxNum
+
+< ), - >
+Position:  line: 79  col: 36
+Value: )
+
+< {, - >
+Position:  line: 80  col: 5
+Value: {
+
+< id, 33 >
+Position:  line: 81  col: 9
+Value: printf
+
+< (, - >
+Position:  line: 81  col: 15
+Value: (
+
+< ", - >
+Position:  line: 81  col: 16
+Value: "
+
+<   起点不存在！\n, string >
+Position:  line: 81  col: 17
+Value:   起点不存在！\n
+
+< ", - >
+Position:  line: 81  col: 31
+Value: "
+
+< ), - >
+Position:  line: 81  col: 32
+Value: )
+
+< ;, - >
+Position:  line: 81  col: 33
+Value: ;
+
+< id, 39 >
+Position:  line: 82  col: 9
+Value: exit
+
+< (, - >
+Position:  line: 82  col: 13
+Value: (
+
+< id, 2 >
+Position:  line: 82  col: 14
+The type of token :digit 
+Value: 1
+
+< ), - >
+Position:  line: 82  col: 15
+Value: )
+
+< ;, - >
+Position:  line: 82  col: 16
+Value: ;
+
+< }, - >
+Position:  line: 83  col: 5
+Value: }
+
+< id, 33 >
+Position:  line: 84  col: 5
+Value: printf
+
+< (, - >
+Position:  line: 84  col: 11
+Value: (
+
+< ", - >
+Position:  line: 84  col: 12
+Value: "
+
+<   请输入终点\n, string >
+Position:  line: 84  col: 13
+Value:   请输入终点\n
+
+< ", - >
+Position:  line: 84  col: 25
+Value: "
+
+< ), - >
+Position:  line: 84  col: 26
+Value: )
+
+< ;, - >
+Position:  line: 84  col: 27
+Value: ;
+
+< id, 38 >
+Position:  line: 85  col: 5
+Value: scanf
+
+< (, - >
+Position:  line: 85  col: 10
+Value: (
+
+< ", - >
+Position:  line: 85  col: 11
+Value: "
+
+<   %d, string >
+Position:  line: 85  col: 12
+Value:   %d
+
+< ", - >
+Position:  line: 85  col: 14
+Value: "
+
+< ,, - >
+Position:  line: 85  col: 15
+Value: ,
+
+< &, - >
+Position:  line: 85  col: 17
+Value: &
+
+< id, 37 >
+Position:  line: 85  col: 18
+Value: end
+
+< ), - >
+Position:  line: 85  col: 21
+Value: )
+
+< ;, - >
+Position:  line: 85  col: 22
+Value: ;
+
+< if, - >
+Position:  line: 86  col: 5
+Value: if
+
+< (, - >
+Position:  line: 86  col: 8
+Value: (
+
+< id, 37 >
+Position:  line: 86  col: 9
+Value: end
+
+< <, - >
+Position:  line: 86  col: 13
+Value: <
+
+< id, 2 >
+Position:  line: 86  col: 15
+The type of token :digit 
+Value: 1
+
+< |, - >
+Position:  line: 86  col: 17
+Value: |
+
+< id, 37 >
+Position:  line: 86  col: 20
+Value: end
+
+< >, - >
+Position:  line: 86  col: 24
+Value: >
+
+< id, 20 >
+Position:  line: 86  col: 26
+Value: maxNum
+
+< ), - >
+Position:  line: 86  col: 32
+Value: )
+
+< {, - >
+Position:  line: 87  col: 5
+Value: {
+
+< id, 33 >
+Position:  line: 88  col: 9
+Value: printf
+
+< (, - >
+Position:  line: 88  col: 15
+Value: (
+
+< ", - >
+Position:  line: 88  col: 16
+Value: "
+
+<   终点不存在！\n, string >
+Position:  line: 88  col: 17
+Value:   终点不存在！\n
+
+< ", - >
+Position:  line: 88  col: 31
+Value: "
+
+< ), - >
+Position:  line: 88  col: 32
+Value: )
+
+< ;, - >
+Position:  line: 88  col: 33
+Value: ;
+
+< id, 39 >
+Position:  line: 89  col: 9
+Value: exit
+
+< (, - >
+Position:  line: 89  col: 13
+Value: (
+
+< id, 2 >
+Position:  line: 89  col: 14
+The type of token :digit 
+Value: 1
+
+< ), - >
+Position:  line: 89  col: 15
+Value: )
+
+< ;, - >
+Position:  line: 89  col: 16
+Value: ;
+
+< }, - >
+Position:  line: 90  col: 5
+Value: }
+
+< int, - >
+Position:  line: 91  col: 5
+Value: int
+
+< id, 31 >
+Position:  line: 91  col: 9
+Value: i
+
+< ,, - >
+Position:  line: 91  col: 10
+Value: ,
+
+< id, 40 >
+Position:  line: 91  col: 12
+Value: k
+
+< =, - >
+Position:  line: 91  col: 14
+Value: =
+
+< id, 36 >
+Position:  line: 91  col: 16
+Value: start
+
+< ,, - >
+Position:  line: 91  col: 21
+Value: ,
+
+< id, 41 >
+Position:  line: 91  col: 23
+Value: j
+
+< =, - >
+Position:  line: 91  col: 25
+Value: =
+
+< id, 2 >
+Position:  line: 91  col: 27
+The type of token :digit 
+Value: 1
+
+< ;, - >
+Position:  line: 91  col: 28
+Value: ;
+
+< int, - >
+Position:  line: 92  col: 5
+Value: int
+
+< id, 42 >
+Position:  line: 92  col: 9
+Value: state
+
+< [, - >
+Position:  line: 92  col: 14
+Value: [
+
+< id, 20 >
+Position:  line: 92  col: 15
+Value: maxNum
+
+< +, - >
+Position:  line: 92  col: 22
+Value: +
+
+< id, 2 >
+Position:  line: 92  col: 24
+The type of token :digit 
+Value: 1
+
+< ], - >
+Position:  line: 92  col: 25
+Value: ]
+
+< ;, - >
+Position:  line: 92  col: 26
+Value: ;
+
+< for, - >
+Position:  line: 93  col: 5
+Value: for
+
+< (, - >
+Position:  line: 93  col: 9
+Value: (
+
+< id, 31 >
+Position:  line: 93  col: 10
+Value: i
+
+< =, - >
+Position:  line: 93  col: 12
+Value: =
+
+< id, 1 >
+Position:  line: 93  col: 14
+The type of token :digit 
+Value: 0
+
+< ;, - >
+Position:  line: 93  col: 15
+Value: ;
+
+< id, 31 >
+Position:  line: 93  col: 17
+Value: i
+
+< <, - >
+Position:  line: 93  col: 19
+Value: <
+
+< id, 20 >
+Position:  line: 93  col: 21
+Value: maxNum
+
+< +, - >
+Position:  line: 93  col: 28
+Value: +
+
+< id, 2 >
+Position:  line: 93  col: 30
+The type of token :digit 
+Value: 1
+
+< ;, - >
+Position:  line: 93  col: 31
+Value: ;
+
+< id, 31 >
+Position:  line: 93  col: 33
+Value: i
+
+< +, - >
+Position:  line: 93  col: 34
+Value: +
+
+< ), - >
+Position:  line: 93  col: 36
+Value: )
+
+< id, 42 >
+Position:  line: 94  col: 9
+Value: state
+
+< [, - >
+Position:  line: 94  col: 14
+Value: [
+
+< id, 31 >
+Position:  line: 94  col: 15
+Value: i
+
+< ], - >
+Position:  line: 94  col: 16
+Value: ]
+
+< =, - >
+Position:  line: 94  col: 18
+Value: =
+
+< id, 1 >
+Position:  line: 94  col: 20
+The type of token :digit 
+Value: 0
+
+< ;, - >
+Position:  line: 94  col: 21
+Value: ;
+
+< id, 42 >
+Position:  line: 95  col: 5
+Value: state
+
+< [, - >
+Position:  line: 95  col: 10
+Value: [
+
+< id, 36 >
+Position:  line: 95  col: 11
+Value: start
+
+< ], - >
+Position:  line: 95  col: 16
+Value: ]
+
+< =, - >
+Position:  line: 95  col: 18
+Value: =
+
+< id, 2 >
+Position:  line: 95  col: 20
+The type of token :digit 
+Value: 1
+
+< ;, - >
+Position:  line: 95  col: 21
+Value: ;
+
+< int, - >
+Position:  line: 96  col: 5
+Value: int
+
+< id, 16 >
+Position:  line: 96  col: 9
+Value: num
+
+< =, - >
+Position:  line: 96  col: 13
+Value: =
+
+< id, 1 >
+Position:  line: 96  col: 15
+The type of token :digit 
+Value: 0
+
+< ;, - >
+Position:  line: 96  col: 16
+Value: ;
+
+< int, - >
+Position:  line: 97  col: 5
+Value: int
+
+< id, 25 >
+Position:  line: 97  col: 9
+Value: judge
+
+< ;, - >
+Position:  line: 97  col: 14
+Value: ;
+
+< id, 15 >
+Position:  line: 98  col: 5
+Value: push
+
+< (, - >
+Position:  line: 98  col: 9
+Value: (
+
+< id, 11 >
+Position:  line: 98  col: 10
+Value: s
+
+< ,, - >
+Position:  line: 98  col: 11
+Value: ,
+
+< id, 36 >
+Position:  line: 98  col: 13
+Value: start
+
+< ), - >
+Position:  line: 98  col: 18
+Value: )
+
+< ;, - >
+Position:  line: 98  col: 19
+Value: ;
+
+< while, - >
+Position:  line: 99  col: 5
+Value: while
+
+< (, - >
+Position:  line: 99  col: 11
+Value: (
+
+< id, 11 >
+Position:  line: 99  col: 12
+Value: s
+
+< -, - >
+Position:  line: 99  col: 13
+Value: -
+
+< >, - >
+Position:  line: 99  col: 14
+Value: >
+
+< id, 8 >
+Position:  line: 99  col: 15
+Value: top
+
+< !, - >
+Position:  line: 99  col: 19
+Value: !
+
+< id, 1 >
+Position:  line: 99  col: 22
+The type of token :digit 
+Value: 0
+
+< ), - >
+Position:  line: 99  col: 23
+Value: )
+
+< {, - >
+Position:  line: 100  col: 5
+Value: {
+
+< id, 25 >
+Position:  line: 101  col: 9
+Value: judge
+
+< =, - >
+Position:  line: 101  col: 15
+Value: =
+
+< id, 2 >
+Position:  line: 101  col: 17
+The type of token :digit 
+Value: 1
+
+< ;, - >
+Position:  line: 101  col: 18
+Value: ;
+
+< for, - >
+Position:  line: 102  col: 9
+Value: for
+
+< (, - >
+Position:  line: 102  col: 13
+Value: (
+
+< id, 41 >
+Position:  line: 102  col: 14
+Value: j
+
+< =, - >
+Position:  line: 102  col: 16
+Value: =
+
+< id, 2 >
+Position:  line: 102  col: 18
+The type of token :digit 
+Value: 1
+
+< ;, - >
+Position:  line: 102  col: 19
+Value: ;
+
+< id, 41 >
+Position:  line: 102  col: 21
+Value: j
+
+< <, - >
+Position:  line: 102  col: 23
+Value: <
+
+< id, 20 >
+Position:  line: 102  col: 25
+Value: maxNum
+
+< +, - >
+Position:  line: 102  col: 32
+Value: +
+
+< id, 2 >
+Position:  line: 102  col: 34
+The type of token :digit 
+Value: 1
+
+< ;, - >
+Position:  line: 102  col: 35
+Value: ;
+
+< id, 41 >
+Position:  line: 102  col: 37
+Value: j
+
+< +, - >
+Position:  line: 102  col: 38
+Value: +
+
+< ), - >
+Position:  line: 102  col: 40
+Value: )
+
+< {, - >
+Position:  line: 103  col: 9
+Value: {
+
+< if, - >
+Position:  line: 104  col: 13
+Value: if
+
+< (, - >
+Position:  line: 104  col: 16
+Value: (
+
+< (, - >
+Position:  line: 104  col: 17
+Value: (
+
+< id, 19 >
+Position:  line: 104  col: 18
+Value: map
+
+< [, - >
+Position:  line: 104  col: 21
+Value: [
+
+< id, 11 >
+Position:  line: 104  col: 22
+Value: s
+
+< -, - >
+Position:  line: 104  col: 23
+Value: -
+
+< >, - >
+Position:  line: 104  col: 24
+Value: >
+
+< id, 7 >
+Position:  line: 104  col: 25
+Value: elem
+
+< [, - >
+Position:  line: 104  col: 29
+Value: [
+
+< id, 11 >
+Position:  line: 104  col: 30
+Value: s
+
+< -, - >
+Position:  line: 104  col: 31
+Value: -
+
+< >, - >
+Position:  line: 104  col: 32
+Value: >
+
+< id, 8 >
+Position:  line: 104  col: 33
+Value: top
+
+< -, - >
+Position:  line: 104  col: 37
+Value: -
+
+< id, 2 >
+Position:  line: 104  col: 39
+The type of token :digit 
+Value: 1
+
+< ], - >
+Position:  line: 104  col: 40
+Value: ]
+
+< ], - >
+Position:  line: 104  col: 41
+Value: ]
+
+< [, - >
+Position:  line: 104  col: 42
+Value: [
+
+< id, 41 >
+Position:  line: 104  col: 43
+Value: j
+
+< ], - >
+Position:  line: 104  col: 44
+Value: ]
+
+< =, - >
+Position:  line: 104  col: 46
+Value: =
+
+< id, 2 >
+Position:  line: 104  col: 49
+The type of token :digit 
+Value: 1
+
+< ), - >
+Position:  line: 104  col: 50
+Value: )
+
+< &, - >
+Position:  line: 104  col: 52
+Value: &
+
+< (, - >
+Position:  line: 104  col: 55
+Value: (
+
+< id, 42 >
+Position:  line: 104  col: 56
+Value: state
+
+< [, - >
+Position:  line: 104  col: 61
+Value: [
+
+< id, 41 >
+Position:  line: 104  col: 62
+Value: j
+
+< ], - >
+Position:  line: 104  col: 63
+Value: ]
+
+< =, - >
+Position:  line: 104  col: 65
+Value: =
+
+< id, 1 >
+Position:  line: 104  col: 68
+The type of token :digit 
+Value: 0
+
+< ), - >
+Position:  line: 104  col: 69
+Value: )
+
+< ), - >
+Position:  line: 104  col: 70
+Value: )
+
+< {, - >
+Position:  line: 105  col: 13
+Value: {
+
+< id, 15 >
+Position:  line: 106  col: 17
+Value: push
+
+< (, - >
+Position:  line: 106  col: 21
+Value: (
+
+< id, 11 >
+Position:  line: 106  col: 22
+Value: s
+
+< ,, - >
+Position:  line: 106  col: 23
+Value: ,
+
+< id, 41 >
+Position:  line: 106  col: 25
+Value: j
+
+< ), - >
+Position:  line: 106  col: 26
+Value: )
+
+< ;, - >
+Position:  line: 106  col: 27
+Value: ;
+
+< id, 19 >
+Position:  line: 107  col: 17
+Value: map
+
+< [, - >
+Position:  line: 107  col: 20
+Value: [
+
+< id, 11 >
+Position:  line: 107  col: 21
+Value: s
+
+< -, - >
+Position:  line: 107  col: 22
+Value: -
+
+< >, - >
+Position:  line: 107  col: 23
+Value: >
+
+< id, 7 >
+Position:  line: 107  col: 24
+Value: elem
+
+< [, - >
+Position:  line: 107  col: 28
+Value: [
+
+< id, 11 >
+Position:  line: 107  col: 29
+Value: s
+
+< -, - >
+Position:  line: 107  col: 30
+Value: -
+
+< >, - >
+Position:  line: 107  col: 31
+Value: >
+
+< id, 8 >
+Position:  line: 107  col: 32
+Value: top
+
+< -, - >
+Position:  line: 107  col: 36
+Value: -
+
+< id, 2 >
+Position:  line: 107  col: 38
+The type of token :digit 
+Value: 1
+
+< ], - >
+Position:  line: 107  col: 39
+Value: ]
+
+< ], - >
+Position:  line: 107  col: 40
+Value: ]
+
+< [, - >
+Position:  line: 107  col: 41
+Value: [
+
+< id, 41 >
+Position:  line: 107  col: 42
+Value: j
+
+< ], - >
+Position:  line: 107  col: 43
+Value: ]
+
+< =, - >
+Position:  line: 107  col: 45
+Value: =
+
+< id, 3 >
+Position:  line: 107  col: 47
+The type of token :digit 
+Value: 2
+
+< ;, - >
+Position:  line: 107  col: 48
+Value: ;
+
+< id, 42 >
+Position:  line: 108  col: 17
+Value: state
+
+< [, - >
+Position:  line: 108  col: 22
+Value: [
+
+< id, 41 >
+Position:  line: 108  col: 23
+Value: j
+
+< ], - >
+Position:  line: 108  col: 24
+Value: ]
+
+< =, - >
+Position:  line: 108  col: 26
+Value: =
+
+< id, 2 >
+Position:  line: 108  col: 28
+The type of token :digit 
+Value: 1
+
+< ;, - >
+Position:  line: 108  col: 29
+Value: ;
+
+< id, 25 >
+Position:  line: 109  col: 17
+Value: judge
+
+< =, - >
+Position:  line: 109  col: 23
+Value: =
+
+< id, 1 >
+Position:  line: 109  col: 25
+The type of token :digit 
+Value: 0
+
+< ;, - >
+Position:  line: 109  col: 26
+Value: ;
+
+< }, - >
+Position:  line: 110  col: 13
+Value: }
+
+< }, - >
+Position:  line: 111  col: 9
+Value: }
+
+< if, - >
+Position:  line: 112  col: 9
+Value: if
+
+< (, - >
+Position:  line: 112  col: 12
+Value: (
+
+< id, 25 >
+Position:  line: 112  col: 13
+Value: judge
+
+< ), - >
+Position:  line: 112  col: 18
+Value: )
+
+< {, - >
+Position:  line: 113  col: 9
+Value: {
+
+< id, 16 >
+Position:  line: 114  col: 13
+Value: num
+
+< =, - >
+Position:  line: 114  col: 17
+Value: =
+
+< id, 17 >
+Position:  line: 114  col: 19
+Value: pop
+
+< (, - >
+Position:  line: 114  col: 22
+Value: (
+
+< id, 11 >
+Position:  line: 114  col: 23
+Value: s
+
+< ,, - >
+Position:  line: 114  col: 24
+Value: ,
+
+< id, 16 >
+Position:  line: 114  col: 26
+Value: num
+
+< ), - >
+Position:  line: 114  col: 29
+Value: )
+
+< ;, - >
+Position:  line: 114  col: 30
+Value: ;
+
+< id, 42 >
+Position:  line: 115  col: 13
+Value: state
+
+< [, - >
+Position:  line: 115  col: 18
+Value: [
+
+< id, 41 >
+Position:  line: 115  col: 19
+Value: j
+
+< ], - >
+Position:  line: 115  col: 20
+Value: ]
+
+< =, - >
+Position:  line: 115  col: 22
+Value: =
+
+< id, 3 >
+Position:  line: 115  col: 24
+The type of token :digit 
+Value: 2
+
+< ;, - >
+Position:  line: 115  col: 25
+Value: ;
+
+< }, - >
+Position:  line: 116  col: 9
+Value: }
+
+< if, - >
+Position:  line: 117  col: 9
+Value: if
+
+< (, - >
+Position:  line: 117  col: 12
+Value: (
+
+< id, 11 >
+Position:  line: 117  col: 13
+Value: s
+
+< -, - >
+Position:  line: 117  col: 14
+Value: -
+
+< >, - >
+Position:  line: 117  col: 15
+Value: >
+
+< id, 7 >
+Position:  line: 117  col: 16
+Value: elem
+
+< [, - >
+Position:  line: 117  col: 20
+Value: [
+
+< id, 11 >
+Position:  line: 117  col: 21
+Value: s
+
+< -, - >
+Position:  line: 117  col: 22
+Value: -
+
+< >, - >
+Position:  line: 117  col: 23
+Value: >
+
+< id, 8 >
+Position:  line: 117  col: 24
+Value: top
+
+< -, - >
+Position:  line: 117  col: 28
+Value: -
+
+< id, 2 >
+Position:  line: 117  col: 30
+The type of token :digit 
+Value: 1
+
+< ], - >
+Position:  line: 117  col: 31
+Value: ]
+
+< =, - >
+Position:  line: 117  col: 33
+Value: =
+
+< id, 37 >
+Position:  line: 117  col: 36
+Value: end
+
+< ), - >
+Position:  line: 117  col: 39
+Value: )
+
+< {, - >
+Position:  line: 118  col: 9
+Value: {
+
+< id, 22 >
+Position:  line: 119  col: 13
+Value: printStack
+
+< (, - >
+Position:  line: 119  col: 23
+Value: (
+
+< *, - >
+Position:  line: 119  col: 24
+Value: *
+
+< id, 11 >
+Position:  line: 119  col: 25
+Value: s
+
+< ), - >
+Position:  line: 119  col: 26
+Value: )
+
+< ;, - >
+Position:  line: 119  col: 27
+Value: ;
+
+< break, - >
+Position:  line: 120  col: 13
+Value: break
+
+< ;, - >
+Position:  line: 120  col: 18
+Value: ;
+
+< }, - >
+Position:  line: 121  col: 9
+Value: }
+
+< }, - >
+Position:  line: 122  col: 5
+Value: }
+
+< }, - >
+Position:  line: 123  col: 1
+Value: }
+
+< void, - >
+Position:  line: 124  col: 1
+Value: void
+
+< id, 22 >
+Position:  line: 124  col: 6
+Value: printStack
+
+< (, - >
+Position:  line: 124  col: 16
+Value: (
+
+< id, 9 >
+Position:  line: 124  col: 17
+Value: Stack
+
+< id, 11 >
+Position:  line: 124  col: 23
+Value: s
+
+< ), - >
+Position:  line: 124  col: 24
+Value: )
+
+< {, - >
+Position:  line: 125  col: 1
+Value: {
+
+< id, 9 >
+Position:  line: 126  col: 5
+Value: Stack
+
+< *, - >
+Position:  line: 126  col: 11
+Value: *
+
+< id, 43 >
+Position:  line: 126  col: 12
+Value: tmp
+
+< =, - >
+Position:  line: 126  col: 16
+Value: =
+
+< (, - >
+Position:  line: 126  col: 18
+Value: (
+
+< id, 9 >
+Position:  line: 126  col: 19
+Value: Stack
+
+< *, - >
+Position:  line: 126  col: 25
+Value: *
+
+< ), - >
+Position:  line: 126  col: 26
+Value: )
+
+< id, 24 >
+Position:  line: 126  col: 27
+Value: malloc
+
+< (, - >
+Position:  line: 126  col: 33
+Value: (
+
+< sizeof, - >
+Position:  line: 126  col: 34
+Value: sizeof
+
+< (, - >
+Position:  line: 126  col: 40
+Value: (
+
+< id, 9 >
+Position:  line: 126  col: 41
+Value: Stack
+
+< ), - >
+Position:  line: 126  col: 46
+Value: )
+
+< ), - >
+Position:  line: 126  col: 47
+Value: )
+
+< ;, - >
+Position:  line: 126  col: 48
+Value: ;
+
+< int, - >
+Position:  line: 127  col: 5
+Value: int
+
+< id, 16 >
+Position:  line: 127  col: 9
+Value: num
+
+< ,, - >
+Position:  line: 127  col: 12
+Value: ,
+
+< id, 31 >
+Position:  line: 127  col: 14
+Value: i
+
+< =, - >
+Position:  line: 127  col: 16
+Value: =
+
+< id, 1 >
+Position:  line: 127  col: 18
+The type of token :digit 
+Value: 0
+
+< ;, - >
+Position:  line: 127  col: 19
+Value: ;
+
+< id, 10 >
+Position:  line: 128  col: 5
+Value: InitStack
+
+< (, - >
+Position:  line: 128  col: 14
+Value: (
+
+< &, - >
+Position:  line: 128  col: 15
+Value: &
+
+< id, 43 >
+Position:  line: 128  col: 16
+Value: tmp
+
+< ), - >
+Position:  line: 128  col: 19
+Value: )
+
+< ;, - >
+Position:  line: 128  col: 20
+Value: ;
+
+< id, 33 >
+Position:  line: 129  col: 5
+Value: printf
+
+< (, - >
+Position:  line: 129  col: 11
+Value: (
+
+< ", - >
+Position:  line: 129  col: 12
+Value: "
+
+<   当前路径长度为：%d\n, string >
+Position:  line: 129  col: 13
+Value:   当前路径长度为：%d\n
+
+< ", - >
+Position:  line: 129  col: 33
+Value: "
+
+< ,, - >
+Position:  line: 129  col: 34
+Value: ,
+
+< id, 11 >
+Position:  line: 129  col: 36
+Value: s
+
+< ., - >
+Position:  line: 129  col: 37
+Value: .
+
+< id, 8 >
+Position:  line: 129  col: 38
+Value: top
+
+< ), - >
+Position:  line: 129  col: 41
+Value: )
+
+< ;, - >
+Position:  line: 129  col: 42
+Value: ;
+
+< id, 33 >
+Position:  line: 130  col: 5
+Value: printf
+
+< (, - >
+Position:  line: 130  col: 11
+Value: (
+
+< ", - >
+Position:  line: 130  col: 12
+Value: "
+
+<   具体路径为：\n, string >
+Position:  line: 130  col: 13
+Value:   具体路径为：\n
+
+< ", - >
+Position:  line: 130  col: 27
+Value: "
+
+< ), - >
+Position:  line: 130  col: 28
+Value: )
+
+< ;, - >
+Position:  line: 130  col: 29
+Value: ;
+
+< while, - >
+Position:  line: 131  col: 5
+Value: while
+
+< (, - >
+Position:  line: 131  col: 11
+Value: (
+
+< id, 11 >
+Position:  line: 131  col: 12
+Value: s
+
+< ., - >
+Position:  line: 131  col: 13
+Value: .
+
+< id, 8 >
+Position:  line: 131  col: 14
+Value: top
+
+< ), - >
+Position:  line: 131  col: 17
+Value: )
+
+< {, - >
+Position:  line: 132  col: 5
+Value: {
+
+< id, 16 >
+Position:  line: 133  col: 9
+Value: num
+
+< =, - >
+Position:  line: 133  col: 13
+Value: =
+
+< id, 17 >
+Position:  line: 133  col: 15
+Value: pop
+
+< (, - >
+Position:  line: 133  col: 18
+Value: (
+
+< &, - >
+Position:  line: 133  col: 19
+Value: &
+
+< id, 11 >
+Position:  line: 133  col: 20
+Value: s
+
+< ,, - >
+Position:  line: 133  col: 21
+Value: ,
+
+< id, 16 >
+Position:  line: 133  col: 23
+Value: num
+
+< ), - >
+Position:  line: 133  col: 26
+Value: )
+
+< ;, - >
+Position:  line: 133  col: 27
+Value: ;
+
+< id, 15 >
+Position:  line: 134  col: 9
+Value: push
+
+< (, - >
+Position:  line: 134  col: 13
+Value: (
+
+< id, 43 >
+Position:  line: 134  col: 14
+Value: tmp
+
+< ,, - >
+Position:  line: 134  col: 17
+Value: ,
+
+< id, 16 >
+Position:  line: 134  col: 19
+Value: num
+
+< ), - >
+Position:  line: 134  col: 22
+Value: )
+
+< ;, - >
+Position:  line: 134  col: 23
+Value: ;
+
+< }, - >
+Position:  line: 135  col: 5
+Value: }
+
+< while, - >
+Position:  line: 136  col: 5
+Value: while
+
+< (, - >
+Position:  line: 136  col: 11
+Value: (
+
+< (, - >
+Position:  line: 136  col: 12
+Value: (
+
+< *, - >
+Position:  line: 136  col: 13
+Value: *
+
+< id, 43 >
+Position:  line: 136  col: 14
+Value: tmp
+
+< ), - >
+Position:  line: 136  col: 17
+Value: )
+
+< ., - >
+Position:  line: 136  col: 18
+Value: .
+
+< id, 8 >
+Position:  line: 136  col: 19
+Value: top
+
+< ), - >
+Position:  line: 136  col: 22
+Value: )
+
+< {, - >
+Position:  line: 137  col: 5
+Value: {
+
+< id, 16 >
+Position:  line: 138  col: 9
+Value: num
+
+< =, - >
+Position:  line: 138  col: 13
+Value: =
+
+< id, 17 >
+Position:  line: 138  col: 15
+Value: pop
+
+< (, - >
+Position:  line: 138  col: 18
+Value: (
+
+< id, 43 >
+Position:  line: 138  col: 19
+Value: tmp
+
+< ,, - >
+Position:  line: 138  col: 22
+Value: ,
+
+< id, 16 >
+Position:  line: 138  col: 24
+Value: num
+
+< ), - >
+Position:  line: 138  col: 27
+Value: )
+
+< ;, - >
+Position:  line: 138  col: 28
+Value: ;
+
+< id, 33 >
+Position:  line: 139  col: 9
+Value: printf
+
+< (, - >
+Position:  line: 139  col: 15
+Value: (
+
+< ", - >
+Position:  line: 139  col: 16
+Value: "
+
+<   %d\t, string >
+Position:  line: 139  col: 17
+Value:   %d\t
+
+< ", - >
+Position:  line: 139  col: 21
+Value: "
+
+< ,, - >
+Position:  line: 139  col: 22
+Value: ,
+
+< id, 16 >
+Position:  line: 139  col: 24
+Value: num
+
+< ), - >
+Position:  line: 139  col: 27
+Value: )
+
+< ;, - >
+Position:  line: 139  col: 28
+Value: ;
+
+< id, 31 >
+Position:  line: 140  col: 9
+Value: i
+
+< +, - >
+Position:  line: 140  col: 10
+Value: +
+
+< ;, - >
+Position:  line: 140  col: 12
+Value: ;
+
+< if, - >
+Position:  line: 141  col: 9
+Value: if
+
+< (, - >
+Position:  line: 141  col: 12
+Value: (
+
+< id, 31 >
+Position:  line: 141  col: 13
+Value: i
+
+< %, - >
+Position:  line: 141  col: 15
+Value: %
+
+< id, 4 >
+Position:  line: 141  col: 17
+The type of token :digit 
+Value: 5
+
+< =, - >
+Position:  line: 141  col: 19
+Value: =
+
+< id, 1 >
+Position:  line: 141  col: 22
+The type of token :digit 
+Value: 0
+
+< ), - >
+Position:  line: 141  col: 23
+Value: )
+
+< id, 33 >
+Position:  line: 142  col: 13
+Value: printf
+
+< (, - >
+Position:  line: 142  col: 19
+Value: (
+
+< ", - >
+Position:  line: 142  col: 20
+Value: "
+
+<   \n, string >
+Position:  line: 142  col: 21
+Value:   \n
+
+< ", - >
+Position:  line: 142  col: 23
+Value: "
+
+< ), - >
+Position:  line: 142  col: 24
+Value: )
+
+< ;, - >
+Position:  line: 142  col: 25
+Value: ;
+
+< }, - >
+Position:  line: 143  col: 5
+Value: }
+
+< id, 23 >
+Position:  line: 144  col: 5
+Value: StackDestory
+
+< (, - >
+Position:  line: 144  col: 17
+Value: (
+
+< id, 43 >
+Position:  line: 144  col: 18
+Value: tmp
+
+< ), - >
+Position:  line: 144  col: 21
+Value: )
+
+< ;, - >
+Position:  line: 144  col: 22
+Value: ;
+
+< id, 43 >
+Position:  line: 145  col: 5
+Value: tmp
+
+< =, - >
+Position:  line: 145  col: 9
+Value: =
+
+< id, 28 >
+Position:  line: 145  col: 11
+Value: NULL
+
+< ;, - >
+Position:  line: 145  col: 15
+Value: ;
+
+< }, - >
+Position:  line: 146  col: 1
+Value: }
+
+< void, - >
+Position:  line: 147  col: 1
+Value: void
+
+< id, 23 >
+Position:  line: 147  col: 6
+Value: StackDestory
+
+< (, - >
+Position:  line: 147  col: 18
+Value: (
+
+< id, 9 >
+Position:  line: 147  col: 19
+Value: Stack
+
+< *, - >
+Position:  line: 147  col: 25
+Value: *
+
+< id, 11 >
+Position:  line: 147  col: 26
+Value: s
+
+< ), - >
+Position:  line: 147  col: 27
+Value: )
+
+< {, - >
+Position:  line: 148  col: 1
+Value: {
+
+< id, 44 >
+Position:  line: 149  col: 5
+Value: free
+
+< (, - >
+Position:  line: 149  col: 9
+Value: (
+
+< id, 11 >
+Position:  line: 149  col: 10
+Value: s
+
+< -, - >
+Position:  line: 149  col: 11
+Value: -
+
+< >, - >
+Position:  line: 149  col: 12
+Value: >
+
+< id, 7 >
+Position:  line: 149  col: 13
+Value: elem
+
+< ), - >
+Position:  line: 149  col: 17
+Value: )
+
+< ;, - >
+Position:  line: 149  col: 18
+Value: ;
+
+< id, 11 >
+Position:  line: 150  col: 5
+Value: s
+
+< -, - >
+Position:  line: 150  col: 6
+Value: -
+
+< >, - >
+Position:  line: 150  col: 7
+Value: >
+
+< id, 7 >
+Position:  line: 150  col: 8
+Value: elem
+
+< =, - >
+Position:  line: 150  col: 13
+Value: =
+
+< id, 28 >
+Position:  line: 150  col: 15
+Value: NULL
+
+< ;, - >
+Position:  line: 150  col: 19
+Value: ;
+
+< id, 11 >
+Position:  line: 151  col: 5
+Value: s
+
+< -, - >
+Position:  line: 151  col: 6
+Value: -
+
+< >, - >
+Position:  line: 151  col: 7
+Value: >
+
+< id, 8 >
+Position:  line: 151  col: 8
+Value: top
+
+< =, - >
+Position:  line: 151  col: 12
+Value: =
+
+< id, 1 >
+Position:  line: 151  col: 14
+The type of token :digit 
+Value: 0
+
+< ;, - >
+Position:  line: 151  col: 15
+Value: ;
+
+< }, - >
+Position:  line: 152  col: 1
+Value: }
+
+< int, - >
+Position:  line: 153  col: 1
+Value: int
+
+< id, 45 >
+Position:  line: 153  col: 5
+Value: main
+
+< (, - >
+Position:  line: 153  col: 9
+Value: (
+
+< ), - >
+Position:  line: 153  col: 10
+Value: )
+
+< {, - >
+Position:  line: 154  col: 1
+Value: {
+
+< id, 9 >
+Position:  line: 155  col: 5
+Value: Stack
+
+< *, - >
+Position:  line: 155  col: 11
+Value: *
+
+< id, 11 >
+Position:  line: 155  col: 12
+Value: s
+
+< =, - >
+Position:  line: 155  col: 14
+Value: =
+
+< (, - >
+Position:  line: 155  col: 16
+Value: (
+
+< id, 9 >
+Position:  line: 155  col: 17
+Value: Stack
+
+< *, - >
+Position:  line: 155  col: 23
+Value: *
+
+< ), - >
+Position:  line: 155  col: 24
+Value: )
+
+< id, 24 >
+Position:  line: 155  col: 25
+Value: malloc
+
+< (, - >
+Position:  line: 155  col: 31
+Value: (
+
+< sizeof, - >
+Position:  line: 155  col: 32
+Value: sizeof
+
+< (, - >
+Position:  line: 155  col: 38
+Value: (
+
+< id, 9 >
+Position:  line: 155  col: 39
+Value: Stack
+
+< ), - >
+Position:  line: 155  col: 44
+Value: )
+
+< ), - >
+Position:  line: 155  col: 45
+Value: )
+
+< ;, - >
+Position:  line: 155  col: 46
+Value: ;
+
+< int, - >
+Position:  line: 156  col: 5
+Value: int
+
+< id, 19 >
+Position:  line: 156  col: 9
+Value: map
+
+< [, - >
+Position:  line: 156  col: 12
+Value: [
+
+< id, 6 >
+Position:  line: 156  col: 13
+Value: Maxsize
+
+< ], - >
+Position:  line: 156  col: 20
+Value: ]
+
+< [, - >
+Position:  line: 156  col: 21
+Value: [
+
+< id, 6 >
+Position:  line: 156  col: 22
+Value: Maxsize
+
+< ], - >
+Position:  line: 156  col: 29
+Value: ]
+
+< =, - >
+Position:  line: 156  col: 31
+Value: =
+
+< {, - >
+Position:  line: 156  col: 33
+Value: {
+
+< id, 1 >
+Position:  line: 156  col: 34
+The type of token :digit 
+Value: 0
+
+< }, - >
+Position:  line: 156  col: 35
+Value: }
+
+< ;, - >
+Position:  line: 156  col: 36
+Value: ;
+
+< int, - >
+Position:  line: 157  col: 5
+Value: int
+
+< id, 31 >
+Position:  line: 157  col: 9
+Value: i
+
+< ,, - >
+Position:  line: 157  col: 10
+Value: ,
+
+< id, 20 >
+Position:  line: 157  col: 12
+Value: maxNum
+
+< =, - >
+Position:  line: 157  col: 19
+Value: =
+
+< id, 1 >
+Position:  line: 157  col: 21
+The type of token :digit 
+Value: 0
+
+< ;, - >
+Position:  line: 157  col: 22
+Value: ;
+
+< id, 10 >
+Position:  line: 158  col: 5
+Value: InitStack
+
+< (, - >
+Position:  line: 158  col: 14
+Value: (
+
+< &, - >
+Position:  line: 158  col: 15
+Value: &
+
+< id, 11 >
+Position:  line: 158  col: 16
+Value: s
+
+< ), - >
+Position:  line: 158  col: 17
+Value: )
+
+< ;, - >
+Position:  line: 158  col: 18
+Value: ;
+
+< id, 18 >
+Position:  line: 159  col: 5
+Value: getLabyrinth
+
+< (, - >
+Position:  line: 159  col: 17
+Value: (
+
+< id, 19 >
+Position:  line: 159  col: 18
+Value: map
+
+< ,, - >
+Position:  line: 159  col: 21
+Value: ,
+
+< &, - >
+Position:  line: 159  col: 23
+Value: &
+
+< id, 20 >
+Position:  line: 159  col: 24
+Value: maxNum
+
+< ), - >
+Position:  line: 159  col: 30
+Value: )
+
+< ;, - >
+Position:  line: 159  col: 31
+Value: ;
+
+< id, 33 >
+Position:  line: 160  col: 5
+Value: printf
+
+< (, - >
+Position:  line: 160  col: 11
+Value: (
+
+< ", - >
+Position:  line: 160  col: 12
+Value: "
+
+<   当前地图最大节点为：%d\n, string >
+Position:  line: 160  col: 13
+Value:   当前地图最大节点为：%d\n
+
+< ", - >
+Position:  line: 160  col: 37
+Value: "
+
+< ,, - >
+Position:  line: 160  col: 38
+Value: ,
+
+< id, 20 >
+Position:  line: 160  col: 40
+Value: maxNum
+
+< ), - >
+Position:  line: 160  col: 46
+Value: )
+
+< ;, - >
+Position:  line: 160  col: 47
+Value: ;
+
+< id, 21 >
+Position:  line: 161  col: 5
+Value: wayFind
+
+< (, - >
+Position:  line: 161  col: 12
+Value: (
+
+< id, 19 >
+Position:  line: 161  col: 13
+Value: map
+
+< ,, - >
+Position:  line: 161  col: 16
+Value: ,
+
+< id, 11 >
+Position:  line: 161  col: 18
+Value: s
+
+< ,, - >
+Position:  line: 161  col: 19
+Value: ,
+
+< id, 20 >
+Position:  line: 161  col: 21
+Value: maxNum
+
+< ), - >
+Position:  line: 161  col: 27
+Value: )
+
+< ;, - >
+Position:  line: 161  col: 28
+Value: ;
+
+< id, 23 >
+Position:  line: 162  col: 5
+Value: StackDestory
+
+< (, - >
+Position:  line: 162  col: 17
+Value: (
+
+< id, 11 >
+Position:  line: 162  col: 18
+Value: s
+
+< ), - >
+Position:  line: 162  col: 19
+Value: )
+
+< ;, - >
+Position:  line: 162  col: 20
+Value: ;
+
+< id, 44 >
+Position:  line: 163  col: 5
+Value: free
+
+< (, - >
+Position:  line: 163  col: 9
+Value: (
+
+< id, 11 >
+Position:  line: 163  col: 10
+Value: s
+
+< ), - >
+Position:  line: 163  col: 11
+Value: )
+
+< ;, - >
+Position:  line: 163  col: 12
+Value: ;
+
+< id, 11 >
+Position:  line: 164  col: 5
+Value: s
+
+< =, - >
+Position:  line: 164  col: 7
+Value: =
+
+< id, 28 >
+Position:  line: 164  col: 9
+Value: NULL
+
+< ;, - >
+Position:  line: 164  col: 13
+Value: ;
+
+< id, 46 >
+Position:  line: 165  col: 5
+Value: getchar
+
+< (, - >
+Position:  line: 165  col: 12
+Value: (
+
+< ), - >
+Position:  line: 165  col: 13
+Value: )
+
+< ;, - >
+Position:  line: 165  col: 14
+Value: ;
+
+< id, 46 >
+Position:  line: 166  col: 5
+Value: getchar
+
+< (, - >
+Position:  line: 166  col: 12
+Value: (
+
+< ), - >
+Position:  line: 166  col: 13
+Value: )
+
+< ;, - >
+Position:  line: 166  col: 14
+Value: ;
+
+< return, - >
+Position:  line: 167  col: 5
+Value: return
+
+< id, 1 >
+Position:  line: 167  col: 12
+The type of token :digit 
+Value: 0
+
+< ;, - >
+Position:  line: 167  col: 13
+Value: ;
+
+< }, - >
+Position:  line: 168  col: 1
+Value: }
+
+Word count:
+ID:        303
+Digit:     43
+Number:    0
+Char:      0
+String:    15
+Operater:  158
+Delimiter: 458
+Keyword:   77
+Total:     1054
+Error:     0
+LineCount: 168
+CharacterCount: 4395
+
